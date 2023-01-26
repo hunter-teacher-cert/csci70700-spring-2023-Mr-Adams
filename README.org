@@ -1,0 +1,28 @@
+* Last name:
+* First name:
+* Github username:
+
+* Instructions:
+
+Fill out the top of this form, commit and push it back to GitHub.
+
+** For the topic you are delivering:
+
+Upload all content relating to the delivery of your unit. Include the
+prework, slides, content etc.
+
+Please use these filenames:
+- *homework.md*, *homework.pdf*, or *homework.docx* for the homework
+  assignment
+- *prework.md*, *prework.pdf*, or *prework.docx* if you are giving
+  links to videos or online resources for prework
+- Other files should be given names that make sense
+
+** For all other topics:
+
+Upload your solutions to the assigned homework in the appropriate
+folder. Make sure to use the filenames specified in the assignments.
+
+
+
+

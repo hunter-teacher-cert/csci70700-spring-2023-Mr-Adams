@@ -1,0 +1,27 @@
+* Instructions
+
+** If you are presenting this unit:
+
+*** Upload instructions
+Upload all content relating to the delivery of your unit. Include the
+prework, slides, content etc.
+
+Please use these filenames:
+- *homework.md*, *homework.pdf*, or *homework.docx* for the homework
+  assignment
+- *prework.md*, *prework.pdf*, or *prework.docx* if you are giving
+  links to videos or online resources for prework
+- Other files should be given names that make sense
+*** Assigning the work
+- make sure to post the prework one week before your presentation in
+  the #cstopics-async channel.
+- make sure to post the homework after your group presentation in the
+  #cstopics-hw channel.
+  
+** If you are completing the homework for this unit:
+
+The homework will be posted in the #cstopics-hw channel.
+
+Upload your solutions to the assigned homework in the appropriate
+folder. Make sure to use the filenames specified in the assignments.
+
