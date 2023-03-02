@@ -1,4 +1,12 @@
 * https://replit.com/@Mr-Adams/flask-part1#main.py
+Updates for part 2:
+* added session to collect suggestions made by users in a list.
+* added a log in feature that if password is wrong an error message pops and the user resubmits and if it is correct it takes them to the list of all submissions in the session.
+* Tried to make the VIP section keep a list from all sessions but could not figure out how to pass my list of sugInfo to the main and use it in the VIPSection after they have loged in.  
+
+
+
+
 * Instructions
 
 ** If you are presenting this unit:
