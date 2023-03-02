@@ -1,19 +1,21 @@
-# Decrypt Message
+Decrypt Message
 Decoded message replit: https://replit.com/@Mr-Adams/encoded-message-no-punctuation#main.py
 * I used frequency analysis and then used the key to decrypt the message
 
-# Encrypt Message
+Encrypt Message
 * I would use a playfair cipher to encryt my message.
 * I think this method is quite creative and can provide some security by keeping the keyword secret
 * I love the three rules from the video to encode the message.
+* You need to create the 5 x 5 grid and fill it in using the secret word to encrypt the message
+* The grid is formed by first taking a code word (with duplicate letters removed) and then adding any alphabet characters missing. A digraph is transformed by looking up the two characters in the grid. If they form a rectangle, pick letters from the same rows but other corners. If they form a column, pick the letters one row down. If they form a row, pick the letters one step to the right. If they are same letter, add a padding letter (for instance X) or pick the letters on row down and one step to the right. https://www.boxentriq.com/code-breaking/playfair-cipher
 * Secret keyword = love 
 * secret message = Iloveyou 
 * encoded message = OHLOWVW
 
-* Test IL together first and they would follow rule three getting HO
+* Test IL together first and they would follow rule three switching letters on either corner of the rectangle created getting HO
 * Test OV together first and they would follow rule two shifting each letter one to the right getting VE
-* Test EY together first and they would follow rule three getting WV
-* Test UX together first and they would follow rule two getting ZW
+* Test EY together first and they would follow rule three getting FE
+* Test OU together first and they would follow rule two getting LW
 
 
 
