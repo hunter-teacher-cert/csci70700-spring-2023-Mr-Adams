@@ -1,27 +1,23 @@
-* Instructions
+# Decrypt Message
+Decoded message replit: https://replit.com/@Mr-Adams/encoded-message-no-punctuation#main.py
+* I used frequency analysis and then used the key to decrypt the message
 
-** If you are presenting this unit:
+# Encrypt Message
+* I would use a playfair cipher to encryt my message.
+* I think this method is quite creative and can provide some security by keeping the keyword secret
+* I love the three rules from the video to encode the message.
+* Secret keyword = love 
+* secret message = Iloveyou 
+* encoded message = OHLOWVW
 
-*** Upload instructions
-Upload all content relating to the delivery of your unit. Include the
-prework, slides, content etc.
+* Test IL together first and they would follow rule three getting HO
+* Test OV together first and they would follow rule two shifting each letter one to the right getting VE
+* Test EY together first and they would follow rule three getting WV
+* Test UX together first and they would follow rule two getting ZW
 
-Please use these filenames:
-- *homework.md*, *homework.pdf*, or *homework.docx* for the homework
-  assignment
-- *prework.md*, *prework.pdf*, or *prework.docx* if you are giving
-  links to videos or online resources for prework
-- Other files should be given names that make sense
-*** Assigning the work
-- make sure to post the prework one week before your presentation in
-  the #cstopics-async channel.
-- make sure to post the homework after your group presentation in the
-  #cstopics-hw channel.
-  
-** If you are completing the homework for this unit:
 
-The homework will be posted in the #cstopics-hw channel.
 
-Upload your solutions to the assigned homework in the appropriate
-folder. Make sure to use the filenames specified in the assignments.
-
+## Another option to encrypt:
+* I thought about using a ceaser style cipher, but have the key shift as well.
+* this would work by having an initial shift of lets say 3 and every 6 letters the shift gets doubled.  This would need a message of decent length to work and ensure that the key a frequency analysis does not easily identify the key to decrypt the message.
+* this would need a method to ignore non letter characters in the message
